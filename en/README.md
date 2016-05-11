@@ -1,6 +1,6 @@
 Written By: SuperSuRaccoon
 
-This is book is, in fact, my online resume.
+This book is, in fact, my online resume.
 
 I happened to have a lot of spare time recently so I updated my resume and made a complete yet detailed summary of all the projects I have done in my career life up till now.
 
