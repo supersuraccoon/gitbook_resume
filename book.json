@@ -1,0 +1,22 @@
+{ 
+    "plugins" : 
+    [
+        "chart",
+        "search-pro",
+        "toc"
+    ],
+    "pluginsConfig": 
+    {
+        "sharing": {
+            "weibo": true,
+            "facebook": true,
+            "twitter": true
+        },
+        "search-pro": {
+            "cutWordLib": "nodejieba"
+        },
+        "chart": {
+            "type": "highcharts"
+        }
+    }
+}
