@@ -1,0 +1,14 @@
+{
+    "author": "SuperSuRaccoon",
+    "links": {
+        "sidebar": {
+            "My Blog": "http://www.supersuraccoon-cocos2d.com"
+        }
+    },
+    "plugins" : 
+    [
+        "chart",
+        "-search-pro",
+        "toc"
+    ]
+}
