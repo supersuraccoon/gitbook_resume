@@ -1,4 +1,4 @@
-# <img src="./res/img/face.png" width="50px"/> Work Collection
+# <img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/face.png" width="50px"/> Work Collection
 
 `2016.04` 更新
 
@@ -9,7 +9,7 @@
 ### 学生成績管理システム
 `大学作品` `独立作品`
 
-![students_marks_management_system.png](res/img/work_collection/mfc_project/students_marks_management_system.png)
+![students_marks_management_system.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/students_marks_management_system.png)
 
 |                          |                   |
 | :----------------------- | :---------------- |
@@ -25,7 +25,7 @@
 ### オペレーティングシステムプロセス模擬
 `大学作品` `独立作品`
 
-![operating_system_process_simulator.png](res/img/work_collection/mfc_project/operating_system_process_simulator.png)
+![operating_system_process_simulator.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/operating_system_process_simulator.png)
 
 
 |                          |                   |
@@ -39,7 +39,7 @@
 ### 電子授業アシスタント
 `大学作品` `独立作品`
 
-![electronic_teaching_assistant.png](res/img/work_collection/mfc_project/electronic_teaching_assistant.png)
+![electronic_teaching_assistant.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/electronic_teaching_assistant.png)
 
 スクリーンのどこでも自由に絵画ツールです。
 
@@ -58,7 +58,7 @@
 ### 最短距離アルゴリズムデモ `SPSS` `SPSD`
 `大学作品` `独立作品`
 
-![shortest_path_algorithm.png](res/img/work_collection/mfc_project/shortest_path_algorithm.png)
+![shortest_path_algorithm.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/shortest_path_algorithm.png)
 
 |                          |                   |
 | :----------------------- | :---------------- |
@@ -71,7 +71,7 @@
 ### エクセル生成ツール
 `大学作品` `独立作品`
 
-![excel_generator.png](res/img/work_collection/mfc_project/excel_generator.png)
+![excel_generator.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/excel_generator.png)
 
 |                          |                   |
 | :----------------------- | :---------------- |
@@ -84,7 +84,7 @@
 ### ライフゲーム
 `大学作品` `独立作品`
 
-![game_of_life.png](res/img/work_collection/mfc_project/game_of_life.png)
+![game_of_life.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/game_of_life.png)
 
 |                          |                             |
 | :----------------------- | :-------------------------- |
@@ -97,7 +97,7 @@
 ### ファイル圧縮ツール `LZSS` `RLE`
 `大学作品` `独立作品`
 
-![file_compressor.png](res/img/work_collection/mfc_project/file_compressor.png)
+![file_compressor.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/file_compressor.png)
 
 
 |                          |                   |
@@ -111,7 +111,7 @@
 ### ミニ辞書
 `大学作品` `独立作品`
 
-![my_dictionary.png](res/img/work_collection/mfc_project/my_dictionary.png)
+![my_dictionary.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/my_dictionary.png)
 
 
 |                          |                   |
@@ -125,7 +125,7 @@
 ### ファイルダウンロードツール
 `大学作品` `独立作品`
 
-![file_downloader.png](res/img/work_collection/mfc_project/file_downloader.png)
+![file_downloader.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/file_downloader.png)
 
 
 |                          |                   |
@@ -139,7 +139,7 @@
 ### ミニQQ
 `大学作品` `独立作品`
 
-![mini_qq.png](res/img/work_collection/mfc_project/mini_qq.png)
+![mini_qq.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/mini_qq.png)
 
 |                          |                   |
 | :----------------------- | :---------------- |
@@ -152,7 +152,7 @@
 ### バソコンスクリーンロッカー
 `大学作品` `独立作品`
 
-![pc_screen_locker.png](res/img/work_collection/mfc_project/pc_screen_locker.png)
+![pc_screen_locker.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/pc_screen_locker.png)
 
 `iOS`のようなスクリーンロック機能を提供するツールでした。
 
@@ -167,7 +167,7 @@
 ### 溶接プロセス管理システム
 `大学作品` `独立作品`
 
-![weld_process_system.png](res/img/work_collection/mfc_project/weld_process_system.png)
+![weld_process_system.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/weld_process_system.png)
 
 
 |                          |                   |
@@ -181,7 +181,7 @@
 ### 本管理システム
 `大学作品` `独立作品`
 
-![books_management_system.png](res/img/work_collection/mfc_project/books_management_system.png)
+![books_management_system.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/books_management_system.png)
 
 
 |                          |                   |
@@ -195,7 +195,7 @@
 ### 文字コピーペースト進化版ツール
 `大学作品` `独立作品`
 
-![advanced_text_copy_paste_tool.png](res/img/work_collection/mfc_project/advanced_text_copy_paste_tool.png)
+![advanced_text_copy_paste_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/advanced_text_copy_paste_tool.png)
 
 クリップボードシステムを改造し数回でコピーした文字を選択してペーストする機能を提供するツールです。
 
@@ -210,7 +210,7 @@
 ### ファイルコピーペースト進化版ツール
 `大学作品` `独立作品`
 
-![advanced_file_copy_paste_tool.png](res/img/work_collection/mfc_project/advanced_file_copy_paste_tool.png)
+![advanced_file_copy_paste_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/advanced_file_copy_paste_tool.png)
 
 
 |                          |                   |
@@ -224,7 +224,7 @@
 ### ACTミニゲーム
 `大学作品` `独立作品`
 
-![act_mini_game.png](res/img/work_collection/mfc_project/act_mini_game.png)
+![act_mini_game.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/act_mini_game.png)
 
 
 備考:
@@ -242,7 +242,7 @@ My first ever game programming experience.
 ### 三目並べミニゲーム
 `大学作品` `独立作品`
 
-![tic_tac_toe.png](res/img/work_collection/mfc_project/tic_tac_toe.png)
+![tic_tac_toe.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/tic_tac_toe.png)
 
 
 |                          |                   |
@@ -256,7 +256,7 @@ My first ever game programming experience.
 ### 手書き入力IME数字版
 `大学作品` `独立作品`
 
-![hand_writing_ime.png](res/img/work_collection/mfc_project/hand_writing_ime.png)
+![hand_writing_ime.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/hand_writing_ime.png)
 
 |                          |                   |
 | :----------------------- | :---------------- |
@@ -269,7 +269,7 @@ My first ever game programming experience.
 ### フォルダー計算器
 `大学作品` `独立作品`
 
-![folders_calculator.png](res/img/work_collection/mfc_project/folders_calculator.png)
+![folders_calculator.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/folders_calculator.png)
 
 |                          |                   |
 | :----------------------- | :---------------- |
@@ -282,7 +282,7 @@ My first ever game programming experience.
 ### ファイル名リスト生成ツール
 `大学作品` `独立作品`
 
-![filename_list_generator.png](res/img/work_collection/mfc_project/filename_list_generator.png)
+![filename_list_generator.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/filename_list_generator.png)
 
 
 |                          |                   |
@@ -296,7 +296,7 @@ My first ever game programming experience.
 ### ファイル名変更ツール
 `大学作品` `独立作品`
 
-![file_rename_tool.png](res/img/work_collection/mfc_project/file_rename_tool.png)
+![file_rename_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/file_rename_tool.png)
 
 
 |                          |                   |
@@ -310,7 +310,7 @@ My first ever game programming experience.
 ### 五十音自動表記ツール
 `大学作品` `独立作品`
 
-![japanese_automatic_notation_tool.png](res/img/work_collection/mfc_project/japanese_automatic_notation_tool.png)
+![japanese_automatic_notation_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/japanese_automatic_notation_tool.png)
 
 
 |                          |                   |
@@ -324,7 +324,7 @@ My first ever game programming experience.
 ### デスクトップツールバー
 `大学作品` `独立作品`
 
-![desktop_toolbar.png](res/img/work_collection/mfc_project/desktop_toolbar.png)
+![desktop_toolbar.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/desktop_toolbar.png)
 
 
 |                          |                   |
@@ -338,7 +338,7 @@ My first ever game programming experience.
 ### デスクトップ時計アラーム付き
 `大学作品` `独立作品`
 
-![desktop_clock.png](res/img/work_collection/mfc_project/desktop_clock.png)
+![desktop_clock.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/desktop_clock.png)
 
 |                          |                   |
 | :----------------------- | :---------------- |
@@ -351,7 +351,7 @@ My first ever game programming experience.
 ### データマイニングクラスタリング及び決定木アルゴリズムデモ
 `大学作品` `独立作品`
 
-![corn_breeding_tool.png](res/img/work_collection/mfc_project/corn_breeding_tool.png)
+![corn_breeding_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/corn_breeding_tool.png)
 
 
 |                          |                   |
@@ -365,7 +365,7 @@ My first ever game programming experience.
 ### ファイル暗号化復号化ツール
 `大学作品` `独立作品`
 
-![file_encrypt_decrypt_tool.png](res/img/work_collection/mfc_project/file_encrypt_decrypt_tool.png)
+![file_encrypt_decrypt_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/file_encrypt_decrypt_tool.png)
 
 
 |                          |                   |
@@ -379,7 +379,7 @@ My first ever game programming experience.
 ### ブルートゥース装置スキャナー
 `大学作品` `独立作品`
 
-![bluetooth_device_scaner.png](res/img/work_collection/mfc_project/bluetooth_device_scaner.png)
+![bluetooth_device_scaner.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/bluetooth_device_scaner.png)
 
 
 |                          |                   |
@@ -393,7 +393,7 @@ My first ever game programming experience.
 ### ブログ記事自動保存ツール
 `大学作品` `独立作品`
 
-![forum_post_auto_saver.png](res/img/work_collection/mfc_project/forum_post_auto_saver.png)
+![forum_post_auto_saver.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/forum_post_auto_saver.png)
 
 
 |                          |                   |
@@ -407,7 +407,7 @@ My first ever game programming experience.
 ### 迷宮出口経路探索アルゴリズムデモ
 `大学作品` `独立作品`
 
-![map_exit_pathing_finding.png](res/img/work_collection/mfc_project/map_exit_pathing_finding.png)
+![map_exit_pathing_finding.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/map_exit_pathing_finding.png)
 
 
 |                          |                   |
@@ -421,7 +421,7 @@ My first ever game programming experience.
 ### 操作再現ツール
 `大学作品` `独立作品`
 
-![action_replayer.png](res/img/work_collection/mfc_project/action_replayer.png)
+![action_replayer.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/action_replayer.png)
 
 一連の操作を記録してファイル毎に保存し必要の時再現するツールです。
 
@@ -437,7 +437,7 @@ My first ever game programming experience.
 ### 画像テンプレート認識機
 `大学作品` `独立作品`
 
-![digital_image_recgonition.png](res/img/work_collection/mfc_project/digital_image_recgonition.png)
+![digital_image_recgonition.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/digital_image_recgonition.png)
 
 
 |                          |                   |
@@ -451,7 +451,7 @@ My first ever game programming experience.
 ### 数学関数認識機
 `大学作品` `独立作品`
 
-![math_function_recognition_system.png](res/img/work_collection/mfc_project/math_function_recognition_system.png)
+![math_function_recognition_system.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/math_function_recognition_system.png)
 
 
 |                          |                   |
@@ -468,7 +468,7 @@ My first ever game programming experience.
 ### 掌紋認識セキュリティシステム
 `FUJITSU`
 
-![palm_secure.png](res/img/work_collection/palm_secure/palm_secure.png)
+![palm_secure.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/palm_secure.png)
 
 備考:
 
@@ -541,7 +541,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### Tシャツ印刷機械画像検査システム
 `TIANYUAN`
 
-<img src="./res/img/work_collection/mfc_project/spis.png" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/spis.png" width="60%"/>
 
 
 |                          |                               |
@@ -559,11 +559,11 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### SuperSuRaccoon'sブログ
 `独立作品`
 
-<img src="./res/img/work_collection/blog/supersuraccoon_cocos2d_com_en.png" width="80%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/supersuraccoon_cocos2d_com_en.png" width="80%"/>
 
-<img src="./res/img/work_collection/blog/supersuraccoon_cocos2d_com_zh.png" width="80%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/supersuraccoon_cocos2d_com_zh.png" width="80%"/>
 
-<img src="./res/img/work_collection/blog/supersuraccoon_cocos2d_com_ja.png" width="80%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/supersuraccoon_cocos2d_com_ja.png" width="80%"/>
 
 作業内容:
 - ドメイン設置
@@ -590,9 +590,9 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### URLSchemes Send Level
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/url_schemes_demo_1.png" width="32%"/>
-<img src="./res/img/work_collection/cocos/url_schemes_demo_3.png" width="32%"/>
-<img src="./res/img/work_collection/cocos/url_schemes_demo_5.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/url_schemes_demo_1.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/url_schemes_demo_3.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/url_schemes_demo_5.png" width="32%"/>
 
 `URLSchemes`を利用し`E-mail`でゲームステージを送信・受信する機能を実現する。
 
@@ -611,9 +611,9 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### CCLabelTableEditor
 `独立作品`
 
-<img src="res/img/work_collection/cocos/cclabel_table_editor_1.png" width="32%"/>
-<img src="res/img/work_collection/cocos/cclabel_table_editor_2.png" width="32%"/>
-<img src="res/img/work_collection/cocos/cclabel_table_editor_3.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cclabel_table_editor_1.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cclabel_table_editor_2.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cclabel_table_editor_3.png" width="32%"/>
 
 `Cocos2d-iPhone`より作られたテーブルエディタ。
 
@@ -629,9 +629,9 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### FingerEscaper
 `独立作品`
 
-<img src="./res/img/work_collection/game/finger_escape_1.png" width="32%"/>
-<img src="./res/img/work_collection/game/finger_escape_2.png" width="32%"/>
-<img src="./res/img/work_collection/game/finger_escape_3.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/finger_escape_1.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/finger_escape_2.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/finger_escape_3.png" width="32%"/>
 
 自分の指先をスクリーンに置き、あらゆる襲わってくる的からエスケープしましょう -- 手軽な`iOS` `ACTゲームです。
 
@@ -673,9 +673,9 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 
 `iOS`向けの中国伝統的なカードゲームです。
 
-<img src="./res/img/work_collection/game/clear_five_stages_1.png" width="25%"/>
-<img src="./res/img/work_collection/game/clear_five_stages_2.png" width="25%"/>
-<img src="./res/img/work_collection/game/clear_five_stages_3.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/clear_five_stages_1.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/clear_five_stages_2.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/clear_five_stages_3.png" width="25%"/>
 
 備考:
 
@@ -798,7 +798,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### 将軍ブラウザクライアント
 `NIBA`
 
-<img src="./res/img/work_collection/flash/checkmate.jpg" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/checkmate.jpg" width="60%"/>
 
 第二回世界大戦を背景にした戦争`SLG`ブラウザゲームです。
 
@@ -855,7 +855,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### EffectComboDemo
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos2dx_effect_combo_demo.gif" width="70%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos2dx_effect_combo_demo.gif" width="70%"/>
 
 `Cocos2d-x`一年目のお祝いイベントで作ったスペシャルエフェクトの組み合わせです。
 
@@ -872,9 +872,9 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### CocosGestureRecognizersDemo
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_wtm_glyph_demo_5.png" width="32%" />
-<img src="./res/img/work_collection/cocos/gesture_detection_demo_1.png" width="32%" />
-<img src="./res/img/work_collection/cocos/sf_gesture_recognizers_demo_3.png" width="32%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_wtm_glyph_demo_5.png" width="32%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/gesture_detection_demo_1.png" width="32%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/sf_gesture_recognizers_demo_3.png" width="32%" />
 
 `Cocos2d-iPhone`で利用出来るジェスチャー認識ライブラリいろいろ。
 
@@ -894,9 +894,9 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### ExplosionParticleDemo
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/improved_ccparticlesystem_explosion_1.png" width="32%"/>
-<img src="./res/img/work_collection/cocos/improved_ccparticlesystem_explosion_2.png" width="32%"/>
-<img src="./res/img/work_collection/cocos/improved_ccparticlesystem_explosion_3.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/improved_ccparticlesystem_explosion_1.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/improved_ccparticlesystem_explosion_2.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/improved_ccparticlesystem_explosion_3.png" width="32%"/>
 
 `CCParticleSystem`を改造しよりリアルな爆発を実現する。
 
@@ -941,7 +941,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### CircleLabelTTFDemo HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/circle_labelttf_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/circle_labelttf_demo_html5.png"/>
 
 
 |                          |                               |
@@ -955,7 +955,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### TimeLineDemo HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/timeline_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/timeline_demo_html5.png"/>
 
 
 |                          |                               |
@@ -970,7 +970,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### CalendarDemo HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/calendar_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/calendar_demo_html5.png"/>
 
 
 |                          |                               |
@@ -985,7 +985,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### DollarRecognizerDemo HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/dollar_recognizer_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/dollar_recognizer_demo_html5.png"/>
 
 
 |                          |                               |
@@ -1000,7 +1000,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### ShapeSprite HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/shape_sprite_html5.png" width="50%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/shape_sprite_html5.png" width="50%"/>
 
 
 |                          |                               |
@@ -1015,8 +1015,8 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### 大熊君のブログ
 `独立作品`
 
-<img src="./res/img/work_collection/blog/copper_bear_name_1.png" width="60%"/>
-<img src="./res/img/work_collection/blog/copper_bear_name_2.png" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/copper_bear_name_1.png" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/copper_bear_name_2.png" width="60%"/>
 
 ボラカイ島旅行中うちのペットの猫ちゃんに作ってあげたブログでした。
 
@@ -1041,8 +1041,8 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 
 通五関のHTML5トライアルバージョン`Facebook`と`Sina`にて公開しました。
 
-<img src="./res/img/work_collection/game/clear_five_stages_facebook.png" width="35%"/>
-<img src="./res/img/work_collection/game/clear_five_stages_sinaweibo.png" width="35%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/clear_five_stages_facebook.png" width="35%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/clear_five_stages_sinaweibo.png" width="35%"/>
 
 作業内容:
 
@@ -1067,7 +1067,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### A Trip from Cocos2d iPhone to Cocos2d HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/a_trip_from_cocos2d_iphone_to_cocos2d_html5_en.png" width="30%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/a_trip_from_cocos2d_iphone_to_cocos2d_html5_en.png" width="30%"/>
 
 この前通五関モバイルバージョンを`Cocos2d-iPhone`から`Cocos2d-HTML5`に移植した経験を纏めて本にしました。
 
@@ -1082,7 +1082,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### ResumeDemo-HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/resume_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/resume_demo_html5.png"/>
 
 `Cocosbuilder`と`Cocos2d-HTML5v2.2.3`より作った僕の履歴です。
 
@@ -1098,7 +1098,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### CocosCLIDemo HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_cli_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_cli_demo_html5.png"/>
 
 `Cocos2d`ゲーム用のコマンドラインツールです。
 
@@ -1114,7 +1114,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### CocosJSBLab HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_jsb_lab_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_jsb_lab_html5.png"/>
 
 
 |                          |                               |
@@ -1129,7 +1129,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### SpiderMonkeyMix Cocos2dx
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/spidermonkey_mix_cocos2dx.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/spidermonkey_mix_cocos2dx.png"/>
 
 主な内容:
 
@@ -1148,7 +1148,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### JSBBlueTooth
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/jsb_bluetooth.jpg" width="50%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/jsb_bluetooth.jpg" width="50%" />
 
 `Cocos2d-HTML5` + `JSBinding` + `Bluetooth` マルチプレイデモ。
 
@@ -1164,7 +1164,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### CocosMagnifier HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_magnifier_html5.gif" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_magnifier_html5.gif" width="60%"/>
 
 `Cocos2d-HTML5 v2.2.2`で作った拡大鏡です。
 
@@ -1180,7 +1180,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### CocosSVG HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_svg_html5.png" width="50%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_svg_html5.png" width="50%" />
 
 `.svg`を解析し`cc.Sprite`を作り出す機能を提供。
 
@@ -1196,7 +1196,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### CocosNewsCenter
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_news_center.png" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_news_center.png" width="60%"/>
 
 `Cocos2d`関するあらゆる情報を自動的に収集するアプリです。
 
@@ -1239,9 +1239,9 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### CocosQuiz
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_quiz_1.png" width="25%"/>
-<img src="./res/img/work_collection/cocos/cocos_quiz_4.png" width="25%"/>
-<img src="./res/img/work_collection/cocos/cocos_quiz_5.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_quiz_1.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_quiz_4.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_quiz_5.png" width="25%"/>
 
 `Cocos2d`に関する問答を中心にしたクイズアプリです。
 
@@ -1257,10 +1257,10 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### GoTiles
 `独立作品`
 
-<img src="./res/img/work_collection/game/go_tiles_1.jpg" width="22%"/>
-<img src="./res/img/work_collection/game/go_tiles_2.jpg" width="22%"/>
-<img src="./res/img/work_collection/game/go_tiles_4.jpg" width="22%"/>
-<img src="./res/img/work_collection/game/go_tiles_5.jpg" width="22%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/go_tiles_1.jpg" width="22%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/go_tiles_2.jpg" width="22%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/go_tiles_4.jpg" width="22%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/go_tiles_5.jpg" width="22%"/>
 
 `Cocos2d-html5` + `JSBinding` + `Parse`より開発し`Node-Webkit`を用いて多数のプラットフォームにて公開した並び消すゲームです。
 
@@ -1305,7 +1305,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### 土豪三國サーバー
 `NIBA`
 
-<img src="./res/img/work_collection/flash/tuhaosanguo.jpg" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/tuhaosanguo.jpg" width="60%"/>
 
 三國を背景にした`RPG`ブラウザゲームです。
 
@@ -1331,7 +1331,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 ### Sublime Cocos2d HTML5プラグイン
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos2d-html5_api_sublime_text.gif" width="80%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos2d-html5_api_sublime_text.gif" width="80%"/>
 
 Sublime専用の`Cocos2d-HTML5 v2.x`プラグインで、以下の機能を提供:
 
@@ -1368,10 +1368,10 @@ Sublime専用の`Cocos2d-HTML5 v2.x`プラグインで、以下の機能を提�
 ### 5MinsMystery
 `独立作品`
 
-<img src="./res/img/work_collection/game/5_mins_mystery_1.png" width="23%"/>
-<img src="./res/img/work_collection/game/5_mins_mystery_3.png" width="23%"/>
-<img src="./res/img/work_collection/game/5_mins_mystery_4.png" width="23%"/>
-<img src="./res/img/work_collection/game/5_mins_mystery_5.png" width="23%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/5_mins_mystery_1.png" width="23%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/5_mins_mystery_3.png" width="23%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/5_mins_mystery_4.png" width="23%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/5_mins_mystery_5.png" width="23%"/>
 
 A text based interactive game for all the mystery fans.
 
@@ -1437,7 +1437,7 @@ A text based interactive game for all the mystery fans.
 ### 暴走ガンマン / 雛蜂BEE サーバー
 `LONGLIN`
 
-<img src="./res/img/work_collection/game/bee.jpg" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/bee.jpg" width="60%"/>
 
 2Dスクロールシューティングゲーム`iOS`と`Android`で公開しました。
 
@@ -1471,7 +1471,7 @@ A text based interactive game for all the mystery fans.
 ### 暴走ガンマン / 雛蜂BEE クライアント
 `LONGLIN`
 
-<img src="./res/img/work_collection/game/gunman_in_rage.jpg" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/gunman_in_rage.jpg" width="60%"/>
 
 作業内容:
 
@@ -1558,7 +1558,7 @@ A text based interactive game for all the mystery fans.
 ### Impress.js 大熊君
 `独立作品`
 
-<img src="./res/img/work_collection/blog/impress_js_copperbear.gif" width="30%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/impress_js_copperbear.gif" width="30%" />
 
 大熊君2歳の誕生日をお祝いために`impress.js`より作った`WeChat`バージョンスライドショーです。
 
@@ -1574,7 +1574,7 @@ A text based interactive game for all the mystery fans.
 ### CocosShader
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_shader.gif" width="70%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_shader.gif" width="70%"/>
 
 `Cocos2d-JS v3.9`より作った画像エフェクトいろいろ:
 
@@ -1602,7 +1602,7 @@ A text based interactive game for all the mystery fans.
 ### Small World
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/small_world_html5.gif" width="70%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/small_world_html5.gif" width="70%"/>
 
 `Cocos2d-HTML5 v2.2.3`より作ったミニゲームデモです:
 
@@ -1630,7 +1630,7 @@ A text based interactive game for all the mystery fans.
 ### SneakyJoystick JS
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/sneaky_joystick_js.gif" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/sneaky_joystick_js.gif" width="60%"/>
 
 `Cocos2d-JS v3.10`より`C++`バージョンのSneakyJoystickを`JavaScript`バージョンに移植しました(`JSBinding`可)。
 
@@ -1646,7 +1646,7 @@ A text based interactive game for all the mystery fans.
 ### SpyFighter
 `独立作品`
 
-<img src="./res/img/work_collection/game/spy_fighter.gif" width="70%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/spy_fighter.gif" width="70%" />
 
 `Cocos2d-JS v3.10`より作った戦術的な潜入系シューティングプラズ謎解きモバイルゲームです。目標プラットフォームは`iOS` `Android` `ブラウザー` 及び `デスクトップ`.
 
@@ -1700,9 +1700,9 @@ A text based interactive game for all the mystery fans.
 ### WeChat Wedding Invitation
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/wechat_wedding_invitation_1.png" width="30%" />
-<img src="./res/img/work_collection/cocos/wechat_wedding_invitation_2.png" width="30%" />
-<img src="./res/img/work_collection/cocos/wechat_wedding_invitation_3.png" width="30%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/wechat_wedding_invitation_1.png" width="30%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/wechat_wedding_invitation_2.png" width="30%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/wechat_wedding_invitation_3.png" width="30%" />
 
 僕の結婚式招待状`WeChat`バージョンです:
 - `WeChat`授権認証機能
@@ -1726,7 +1726,7 @@ A text based interactive game for all the mystery fans.
 ### CocosSVG
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_svg.gif" width="70%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_svg.gif" width="70%"/>
 
 `Cocos2d-JS v3.9`より作ったSVGパス解析ツールです:
 
@@ -1764,7 +1764,7 @@ A text based interactive game for all the mystery fans.
 ### FingerAdventure
 `独立作品`
 
-<img src="./res/img/work_collection/game/finger_adventure.gif" width="70%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/finger_adventure.gif" width="70%" />
 
 `Cocos2d-JS v3.10`より作った`FingerEscape`の強化版です。目標プラットフォームは`iOS` `Android` `ブラウザー` 及び `デスクトップ`。(進捗は50%ほど)
 
@@ -1781,7 +1781,7 @@ A text based interactive game for all the mystery fans.
 ### Cocos2dJS DOM
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos2d_js_dom.gif" width="80%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos2d_js_dom.gif" width="80%" />
 
 `Cocos2d-JS v3.10`で`HTML`DOMエレメントを使用しブラウザーやデスクトップアプリを作るために生み出したものです。
 
@@ -1816,7 +1816,7 @@ A text based interactive game for all the mystery fans.
 ### Cocos2dJS DOM Electron
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cjd_electron.gif" width="80%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cjd_electron.gif" width="80%" />
 
 `Cocos2dJS DOM`と`Electron.js`の連携バージョンです。
 
@@ -1833,7 +1833,7 @@ A text based interactive game for all the mystery fans.
 ### Cocos2dJS DOM Electron Editor
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cjd_electron_editor.gif" width="80%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cjd_electron_editor.gif" width="80%" />
 
 `Cocos2dJS DOM`と`Electron.js`の連携バージョンの`UI`編集ツールです。
 
@@ -1852,7 +1852,7 @@ A text based interactive game for all the mystery fans.
 ### SuperSuRaccoon Githubブログ
 `独立作品`
 
-<img src="./res/img/work_collection/blog/supersuraccoon_github_io.png" width="80%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/supersuraccoon_github_io.png" width="80%"/>
 
 今流行りの`GitHub`静的ブログを`Jekyll`より作ってみました:
 
@@ -1895,7 +1895,7 @@ A text based interactive game for all the mystery fans.
 ### Cocos Protocol Buffer
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_protocol_buffer.png" width="100%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_protocol_buffer.png" width="100%"/>
 
 `Cocos2d-JS v3.10`と`Protocol Buffer v2.5.0`の導入メモです:
 
@@ -1970,8 +1970,8 @@ A text based interactive game for all the mystery fans.
 ### Cocos2dJS Android Emulator
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/avd_emulator.png" width="40%"/>
-<img src="./res/img/work_collection/cocos/log_monitor.png" width="50%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/avd_emulator.png" width="40%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/log_monitor.png" width="50%"/>
 
 `Eclipse`とか重い`IDE`を使わずに`Cocos2d-JS v3.10`で開発したゲームを`Android`に移植しエミュレータでテストするプラスログ監視機能付きの実現方法。
 

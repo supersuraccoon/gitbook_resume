@@ -1,4 +1,4 @@
-# <img src="./res/img/face.png" width="50px"/> Work Collection
+# <img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/face.png" width="50px"/> Work Collection
 
 `Updated 2016.04`
 
@@ -9,7 +9,7 @@
 ### Students Marks Management System
 `UNIVERSITY` `INDIE`
 
-![students_marks_management_system.png](res/img/work_collection/mfc_project/students_marks_management_system.png)
+![students_marks_management_system.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/students_marks_management_system.png)
 
 A classic console based management system with `CURD` operations.
 
@@ -27,7 +27,7 @@ My first ever complete system demo after learning `C++` && `Data Structure` for 
 ### Operating System Process Simulator
 `UNIVERSITY` `INDIE`
 
-![operating_system_process_simulator.png](res/img/work_collection/mfc_project/operating_system_process_simulator.png)
+![operating_system_process_simulator.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/operating_system_process_simulator.png)
 
 Simulate how `Windows OS` allocate && manage resource for processes.
 
@@ -42,7 +42,7 @@ Simulate how `Windows OS` allocate && manage resource for processes.
 ### Electronic Teaching Assistant
 `UNIVERSITY` `INDIE`
 
-![electronic_teaching_assistant.png](res/img/work_collection/mfc_project/electronic_teaching_assistant.png)
+![electronic_teaching_assistant.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/electronic_teaching_assistant.png)
 
 A set of drawing tools that can draw anywhere on the screen that can be used for visual teaching or making tutorials.
 
@@ -61,7 +61,7 @@ My first ever software after learning `MFC` for 3 month which won a `Special Awa
 ### Shortest Path Algorithm
 `UNIVERSITY` `INDIE`
 
-![shortest_path_algorithm.png](res/img/work_collection/mfc_project/shortest_path_algorithm.png)
+![shortest_path_algorithm.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/shortest_path_algorithm.png)
 
 A visual demo of the classic Shortest Path Algorithm `SPSS` `SPSD`.
 
@@ -76,7 +76,7 @@ A visual demo of the classic Shortest Path Algorithm `SPSS` `SPSD`.
 ### Excel Generator
 `UNIVERSITY` `INDIE`
 
-![excel_generator.png](res/img/work_collection/mfc_project/excel_generator.png)
+![excel_generator.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/excel_generator.png)
 
 A visual tool to generate `.xls` files.
 
@@ -91,7 +91,7 @@ A visual tool to generate `.xls` files.
 ### Game of Life
 `UNIVERSITY` `INDIE`
 
-![game_of_life.png](res/img/work_collection/mfc_project/game_of_life.png)
+![game_of_life.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/game_of_life.png)
 
 `Game of life` visual demo.
 
@@ -106,7 +106,7 @@ A visual tool to generate `.xls` files.
 ### File Compressor
 `UNIVERSITY` `INDIE`
 
-![file_compressor.png](res/img/work_collection/mfc_project/file_compressor.png)
+![file_compressor.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/file_compressor.png)
 
 A compress tool based on the algorithm of `LZSS` and `RLE`.
 
@@ -121,7 +121,7 @@ A compress tool based on the algorithm of `LZSS` and `RLE`.
 ### My Dictionary
 `UNIVERSITY` `INDIE`
 
-![my_dictionary.png](res/img/work_collection/mfc_project/my_dictionary.png)
+![my_dictionary.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/my_dictionary.png)
 
 A simple dictionary supports import && export custom vocabulary (`.xls`).
 
@@ -136,7 +136,7 @@ A simple dictionary supports import && export custom vocabulary (`.xls`).
 ### File Downloader
 `UNIVERSITY` `INDIE`
 
-![file_downloader.png](res/img/work_collection/mfc_project/file_downloader.png)
+![file_downloader.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/file_downloader.png)
 
 A simple `HTTP` file download tool.
 
@@ -151,7 +151,7 @@ A simple `HTTP` file download tool.
 ### Mini QQ
 `UNIVERSITY` `INDIE`
 
-![mini_qq.png](res/img/work_collection/mfc_project/mini_qq.png)
+![mini_qq.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/mini_qq.png)
 
 A simplify QQ like chat tool based on `Socket` connection.
 
@@ -166,7 +166,7 @@ A simplify QQ like chat tool based on `Socket` connection.
 ### PC Screen Locker
 `UNIVERSITY` `INDIE`
 
-![pc_screen_locker.png](res/img/work_collection/mfc_project/pc_screen_locker.png)
+![pc_screen_locker.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/pc_screen_locker.png)
 
 Provide a `iOS` like screen locker for PC.
 
@@ -181,7 +181,7 @@ Provide a `iOS` like screen locker for PC.
 ### Weld Process System
 `UNIVERSITY` `INDIE`
 
-![weld_process_system.png](res/img/work_collection/mfc_project/weld_process_system.png)
+![weld_process_system.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/weld_process_system.png)
 
 A complete weld process management system made for Nantong ZhongYuan Dockyard.
 
@@ -196,7 +196,7 @@ A complete weld process management system made for Nantong ZhongYuan Dockyard.
 ### Books Management System
 `UNIVERSITY` `INDIE`
 
-![books_management_system.png](res/img/work_collection/mfc_project/books_management_system.png)
+![books_management_system.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/books_management_system.png)
 
 A simple library books management system.
 
@@ -211,7 +211,7 @@ A simple library books management system.
 ### Advanced Text Copy Paste Tool
 `UNIVERSITY` `INDIE`
 
-![advanced_text_copy_paste_tool.png](res/img/work_collection/mfc_project/advanced_text_copy_paste_tool.png)
+![advanced_text_copy_paste_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/advanced_text_copy_paste_tool.png)
 
 A advanced text copy && paste tool with "copy all at one time and selective paste" feature implemented by reform the system clipboard.
 
@@ -226,7 +226,7 @@ A advanced text copy && paste tool with "copy all at one time and selective past
 ### Advanced File Copy Paste Tool
 `UNIVERSITY` `INDIE`
 
-![advanced_file_copy_paste_tool.png](res/img/work_collection/mfc_project/advanced_file_copy_paste_tool.png)
+![advanced_file_copy_paste_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/advanced_file_copy_paste_tool.png)
 
 The file version of `Advanced Text Copy Paste Tool`.
 
@@ -241,7 +241,7 @@ The file version of `Advanced Text Copy Paste Tool`.
 ### Act Mini Game
 `UNIVERSITY` `INDIE`
 
-![act_mini_game.png](res/img/work_collection/mfc_project/act_mini_game.png)
+![act_mini_game.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/act_mini_game.png)
 
 A mini `ACT` game using `Multi-thread` programming.
 
@@ -260,7 +260,7 @@ My first ever game programming experience.
 ### Tic Tac Toe
 `UNIVERSITY` `INDIE`
 
-![tic_tac_toe.png](res/img/work_collection/mfc_project/tic_tac_toe.png)
+![tic_tac_toe.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/tic_tac_toe.png)
 
 A classic `BOARD` game.
 
@@ -275,7 +275,7 @@ A classic `BOARD` game.
 ### Hand Writing IME
 `UNIVERSITY` `INDIE`
 
-![hand_writing_ime.png](res/img/work_collection/mfc_project/hand_writing_ime.png)
+![hand_writing_ime.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/hand_writing_ime.png)
 
 A simple number-only hand writing IME which has the ability of self-learning.
 
@@ -290,7 +290,7 @@ A simple number-only hand writing IME which has the ability of self-learning.
 ### Folders Calculator
 `UNIVERSITY` `INDIE`
 
-![folders_calculator.png](res/img/work_collection/mfc_project/folders_calculator.png)
+![folders_calculator.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/folders_calculator.png)
 
 A tool to calculate all the folders size under given directory.
 
@@ -305,7 +305,7 @@ A tool to calculate all the folders size under given directory.
 ### Filename List Generator
 `UNIVERSITY` `INDIE`
 
-![filename_list_generator.png](res/img/work_collection/mfc_project/filename_list_generator.png)
+![filename_list_generator.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/filename_list_generator.png)
 
 Generate a file name list for a given folder.
 
@@ -320,7 +320,7 @@ Generate a file name list for a given folder.
 ### File Rename Tool
 `UNIVERSITY` `INDIE`
 
-![file_rename_tool.png](res/img/work_collection/mfc_project/file_rename_tool.png)
+![file_rename_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/file_rename_tool.png)
 
 A file batch rename tool.
 
@@ -335,7 +335,7 @@ A file batch rename tool.
 ### Japanese Automatic Notation Tool
 `UNIVERSITY` `INDIE`
 
-![japanese_automatic_notation_tool.png](res/img/work_collection/mfc_project/japanese_automatic_notation_tool.png)
+![japanese_automatic_notation_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/japanese_automatic_notation_tool.png)
 
 A automatic notation tool for japanese phonetic alphabet.
 
@@ -350,7 +350,7 @@ A automatic notation tool for japanese phonetic alphabet.
 ### Desktop Toolbar
 `UNIVERSITY` `INDIE`
 
-![desktop_toolbar.png](res/img/work_collection/mfc_project/desktop_toolbar.png)
+![desktop_toolbar.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/desktop_toolbar.png)
 
 A custom desktop Toolbar in which you can put your recent files for convenient access.
 
@@ -365,7 +365,7 @@ A custom desktop Toolbar in which you can put your recent files for convenient a
 ### Desktop Clock
 `UNIVERSITY` `INDIE`
 
-![desktop_clock.png](res/img/work_collection/mfc_project/desktop_clock.png)
+![desktop_clock.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/desktop_clock.png)
 
 A simple desktop clock with auto poweroff and alarm features.
 
@@ -380,7 +380,7 @@ A simple desktop clock with auto poweroff and alarm features.
 ### Corn Breeding Tool
 `UNIVERSITY` `INDIE`
 
-![corn_breeding_tool.png](res/img/work_collection/mfc_project/corn_breeding_tool.png)
+![corn_breeding_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/corn_breeding_tool.png)
 
 A visual demo for corn breeding based on `Clustering and Decision Tree Algorithm` in `Data Mining`. 
 
@@ -395,7 +395,7 @@ A visual demo for corn breeding based on `Clustering and Decision Tree Algorithm
 ### File Encrypt/Decrypt Tool
 `UNIVERSITY` `INDIE`
 
-![file_encrypt_decrypt_tool.png](res/img/work_collection/mfc_project/file_encrypt_decrypt_tool.png)
+![file_encrypt_decrypt_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/file_encrypt_decrypt_tool.png)
 
 A simple encrypt/decrypt tool.
 
@@ -410,7 +410,7 @@ A simple encrypt/decrypt tool.
 ### Bluetooth Device Scanner
 `UNIVERSITY` `INDIE`
 
-![bluetooth_device_scaner.png](res/img/work_collection/mfc_project/bluetooth_device_scaner.png)
+![bluetooth_device_scaner.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/bluetooth_device_scaner.png)
 
 A bluetooth device scanner tested on `SPRINT PPC`.
 
@@ -425,7 +425,7 @@ A bluetooth device scanner tested on `SPRINT PPC`.
 ### Forum Post Auto Saver
 `UNIVERSITY` `INDIE`
 
-![forum_post_auto_saver.png](res/img/work_collection/mfc_project/forum_post_auto_saver.png)
+![forum_post_auto_saver.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/forum_post_auto_saver.png)
 
 A tool to automatically back up the post being edited to the local disk.
 
@@ -440,7 +440,7 @@ A tool to automatically back up the post being edited to the local disk.
 ### Maze Exit Path Finding
 `UNIVERSITY` `INDIE`
 
-![map_exit_pathing_finding.png](res/img/work_collection/mfc_project/map_exit_pathing_finding.png)
+![map_exit_pathing_finding.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/map_exit_pathing_finding.png)
 
 A visual demo for maze exit path finding.
 
@@ -455,7 +455,7 @@ A visual demo for maze exit path finding.
 ### Action Reaplayer
 `UNIVERSITY` `INDIE`
 
-![action_replayer.png](res/img/work_collection/mfc_project/action_replayer.png)
+![action_replayer.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/action_replayer.png)
 
 A tool for recording users actions and then replay them.
 
@@ -470,7 +470,7 @@ A tool for recording users actions and then replay them.
 ### Digital Image Recogonition
 `UNIVERSITY` `INDIE`
 
-![digital_image_recgonition.png](res/img/work_collection/mfc_project/digital_image_recgonition.png)
+![digital_image_recgonition.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/digital_image_recgonition.png)
 
 Implemented the `Template Recogonition` method to allow the users to manage the template visually.
 
@@ -485,7 +485,7 @@ Implemented the `Template Recogonition` method to allow the users to manage the 
 ### Math Function Recognition System
 `UNIVERSITY` `INDIE`
 
-![math_function_recognition_system.png](res/img/work_collection/mfc_project/math_function_recognition_system.png)
+![math_function_recognition_system.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/math_function_recognition_system.png)
 
 A math formula recognizer that can parse complex formula image to plain text.
 
@@ -503,7 +503,7 @@ A math formula recognizer that can parse complex formula image to plain text.
 ### Palm Secure Door System
 `FUJITSU`
 
-![palm_secure.png](res/img/work_collection/palm_secure/palm_secure.png)
+![palm_secure.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/palm_secure.png)
 
 A door system based on palm recognition with data management.
 
@@ -582,7 +582,7 @@ Network management system develop in China and test in `Japan`.
 ### Image Inspect System for Printing Machine
 `TIANYUAN`
 
-<img src="./res/img/work_collection/mfc_project/spis.png" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/spis.png" width="60%"/>
 
 A image quality inspect system for auto printing machine.
 
@@ -601,11 +601,11 @@ A image quality inspect system for auto printing machine.
 ### SuperSuRaccoon's Blog
 `INDIE`
 
-<img src="./res/img/work_collection/blog/supersuraccoon_cocos2d_com_en.png" width="80%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/supersuraccoon_cocos2d_com_en.png" width="80%"/>
 
-<img src="./res/img/work_collection/blog/supersuraccoon_cocos2d_com_zh.png" width="80%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/supersuraccoon_cocos2d_com_zh.png" width="80%"/>
 
-<img src="./res/img/work_collection/blog/supersuraccoon_cocos2d_com_ja.png" width="80%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/supersuraccoon_cocos2d_com_ja.png" width="80%"/>
 
 A game develop related blog mainly on `cocos2d` framework.
 
@@ -633,9 +633,9 @@ My first ever personal blog to record my `cocos2d` framework learning experience
 ### URLSchemes Send Level
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/url_schemes_demo_1.png" width="32%"/>
-<img src="./res/img/work_collection/cocos/url_schemes_demo_3.png" width="32%"/>
-<img src="./res/img/work_collection/cocos/url_schemes_demo_5.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/url_schemes_demo_1.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/url_schemes_demo_3.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/url_schemes_demo_5.png" width="32%"/>
 
 A simple demo on how to send / receive game level data using `URLSchemes` through `E-mail`.
 
@@ -654,9 +654,9 @@ There is a [post.1](http://www.supersuraccoon-cocos2d.com/2011/09/25/part-1-a-so
 ### CCLabelTableEditor
 `INDIE`
 
-<img src="res/img/work_collection/cocos/cclabel_table_editor_1.png" width="32%"/>
-<img src="res/img/work_collection/cocos/cclabel_table_editor_2.png" width="32%"/>
-<img src="res/img/work_collection/cocos/cclabel_table_editor_3.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cclabel_table_editor_1.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cclabel_table_editor_2.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cclabel_table_editor_3.png" width="32%"/>
 
 A visual table editor created with `Cocos2d-iPhone`.
 
@@ -672,9 +672,9 @@ A visual table editor created with `Cocos2d-iPhone`.
 ### FingerEscaper
 `INDIE`
 
-<img src="./res/img/work_collection/game/finger_escape_1.png" width="32%"/>
-<img src="./res/img/work_collection/game/finger_escape_2.png" width="32%"/>
-<img src="./res/img/work_collection/game/finger_escape_3.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/finger_escape_1.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/finger_escape_2.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/finger_escape_3.png" width="32%"/>
 
 Put your finger on the screen and then escape from different kinds of enemies --  A simple `ACT` game for `iOS`.
 
@@ -714,9 +714,9 @@ My first ever `Indie` `cocos2d` game after start learning `Cocos2d-iPhone` for n
 
 A Chinese traditional card game released on `iOS` platform.
 
-<img src="./res/img/work_collection/game/clear_five_stages_1.png" width="25%"/>
-<img src="./res/img/work_collection/game/clear_five_stages_2.png" width="25%"/>
-<img src="./res/img/work_collection/game/clear_five_stages_3.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/clear_five_stages_1.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/clear_five_stages_2.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/clear_five_stages_3.png" width="25%"/>
 
 Note:
 
@@ -849,7 +849,7 @@ Trying to port the web game `CheckMate` to `iOS` using `Unity3D` but aborted bec
 ### CheckMate Client
 `NIBA`
 
-<img src="./res/img/work_collection/flash/checkmate.jpg" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/checkmate.jpg" width="60%"/>
 
 A web based SLG game in the background of World War II.
 
@@ -907,7 +907,7 @@ My starting point of being a server side developer and my job is mainly in writi
 ### EffectComboDemo
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/cocos2dx_effect_combo_demo.gif" width="70%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos2dx_effect_combo_demo.gif" width="70%"/>
 
 A `Cocos2d-x` effect combo demo made for a celebrating event for `Cocos2d-x` one year anniversary.
 
@@ -924,9 +924,9 @@ A `Cocos2d-x` effect combo demo made for a celebrating event for `Cocos2d-x` one
 ### CocosGestureRecognizersDemo
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/cocos_wtm_glyph_demo_5.png" width="32%" />
-<img src="./res/img/work_collection/cocos/gesture_detection_demo_1.png" width="32%" />
-<img src="./res/img/work_collection/cocos/sf_gesture_recognizers_demo_3.png" width="32%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_wtm_glyph_demo_5.png" width="32%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/gesture_detection_demo_1.png" width="32%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/sf_gesture_recognizers_demo_3.png" width="32%" />
 
 Some useful gesture recognize libs for `Cocos2d-iPhone`.
 
@@ -946,9 +946,9 @@ There is a related [post](http://www.supersuraccoon-cocos2d.com/2012/11/14/intro
 ### ExplosionParticleDemo
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/improved_ccparticlesystem_explosion_1.png" width="32%"/>
-<img src="./res/img/work_collection/cocos/improved_ccparticlesystem_explosion_2.png" width="32%"/>
-<img src="./res/img/work_collection/cocos/improved_ccparticlesystem_explosion_3.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/improved_ccparticlesystem_explosion_1.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/improved_ccparticlesystem_explosion_2.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/improved_ccparticlesystem_explosion_3.png" width="32%"/>
 
 A improved `CCParticleSystem` explosion demo.
 
@@ -996,7 +996,7 @@ My first game operation && maintenance experience which last nearly one year sin
 ### CircleLabelTTFDemo HTML5
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/circle_labelttf_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/circle_labelttf_demo_html5.png"/>
 
 A `cc.LabelTTF` can expand / shrink in a circle.
 
@@ -1011,7 +1011,7 @@ A `cc.LabelTTF` can expand / shrink in a circle.
 ### TimeLineDemo HTML5
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/timeline_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/timeline_demo_html5.png"/>
 
 A `Cocos2d-HTML5` (v2.2.3) based cocos2d timeline demo.
 
@@ -1027,7 +1027,7 @@ A `Cocos2d-HTML5` (v2.2.3) based cocos2d timeline demo.
 ### CalendarDemo HTML5
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/calendar_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/calendar_demo_html5.png"/>
 
 A `Cocos2d-HTML5` (v2.2.3) calendar demo.
 
@@ -1043,7 +1043,7 @@ A `Cocos2d-HTML5` (v2.2.3) calendar demo.
 ### DollarRecognizerDemo HTML5
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/dollar_recognizer_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/dollar_recognizer_demo_html5.png"/>
 
 A `cocos2d-html5` (v2.2.3) based demo of using The $1 Unistroke Recognizer.
 
@@ -1059,7 +1059,7 @@ A `cocos2d-html5` (v2.2.3) based demo of using The $1 Unistroke Recognizer.
 ### ShapeSprite HTML5
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/shape_sprite_html5.png" width="50%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/shape_sprite_html5.png" width="50%"/>
 
 A `Cocos2d-HTML5` (v2.2.3) based lib to create shapes sprite in cocos2d.
 
@@ -1075,8 +1075,8 @@ A `Cocos2d-HTML5` (v2.2.3) based lib to create shapes sprite in cocos2d.
 ### CopperBear's Blog
 `INDIE`
 
-<img src="./res/img/work_collection/blog/copper_bear_name_1.png" width="60%"/>
-<img src="./res/img/work_collection/blog/copper_bear_name_2.png" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/copper_bear_name_1.png" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/copper_bear_name_2.png" width="60%"/>
 
 A `Wordpress` blog for my lovely pet -- `CopperBear` -- a big kitty.
 
@@ -1107,8 +1107,8 @@ But the site now is not completed since I changed the blog theme few months ago 
 
 The `HTML5` version of `ClearFiveStages` on `Facebook`.
 
-<img src="./res/img/work_collection/game/clear_five_stages_facebook.png" width="35%"/>
-<img src="./res/img/work_collection/game/clear_five_stages_sinaweibo.png" width="35%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/clear_five_stages_facebook.png" width="35%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/clear_five_stages_sinaweibo.png" width="35%"/>
 
 Note:
 
@@ -1138,7 +1138,7 @@ Work Content:
 ### A Trip from Cocos2d iPhone to Cocos2d HTML5
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/a_trip_from_cocos2d_iphone_to_cocos2d_html5_en.png" width="30%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/a_trip_from_cocos2d_iphone_to_cocos2d_html5_en.png" width="30%"/>
 
 |                          |                               |
 | :----------------------- | :---------------------------- |
@@ -1151,7 +1151,7 @@ Work Content:
 ### ResumeDemo-HTML5
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/resume_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/resume_demo_html5.png"/>
 
 A `Cocos2d-HTML5` (v2.2.3) based resume made with `Cocosbuilder`.
 
@@ -1167,7 +1167,7 @@ A `Cocos2d-HTML5` (v2.2.3) based resume made with `Cocosbuilder`.
 ### CocosCLIDemo HTML5
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/cocos_cli_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_cli_demo_html5.png"/>
 
 A `Cocos2d-HTML5` (v2.2.3) based inner command line layer for cocos2d project.
 
@@ -1183,7 +1183,7 @@ A `Cocos2d-HTML5` (v2.2.3) based inner command line layer for cocos2d project.
 ### CocosJSBLab HTML5
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/cocos_jsb_lab_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_jsb_lab_html5.png"/>
 
 A `Cocos2d-HTML5` (v2.2.3) based demo collection.
 
@@ -1199,7 +1199,7 @@ A `Cocos2d-HTML5` (v2.2.3) based demo collection.
 ### SpiderMonkeyMix Cocos2dx
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/spidermonkey_mix_cocos2dx.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/spidermonkey_mix_cocos2dx.png"/>
 
 A demo with the following contents:
 
@@ -1221,7 +1221,7 @@ A demo with the following contents:
 ### JSBBlueTooth
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/jsb_bluetooth.jpg" width="50%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/jsb_bluetooth.jpg" width="50%" />
 
 A `cocos2d-html5` + `JSBinding` + `Bluetooth` Multiplayer Demo.
 
@@ -1237,7 +1237,7 @@ A `cocos2d-html5` + `JSBinding` + `Bluetooth` Multiplayer Demo.
 ### CocosMagnifier HTML5
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/cocos_magnifier_html5.gif" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_magnifier_html5.gif" width="60%"/>
 
 A `Cocos2d-HTML5` (v2.2.2) based magnifier that can magnify anything on screen.
 
@@ -1253,7 +1253,7 @@ A `Cocos2d-HTML5` (v2.2.2) based magnifier that can magnify anything on screen.
 ### CocosSVG HTML5
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/cocos_svg_html5.png" width="50%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_svg_html5.png" width="50%" />
 
 A `cocos2d-html5` implementation of using `.svg` to create `cc.Sprite`.
 
@@ -1269,7 +1269,7 @@ A `cocos2d-html5` implementation of using `.svg` to create `cc.Sprite`.
 ### CocosNewsCenter
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/cocos_news_center.png" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_news_center.png" width="60%"/>
 
 A browser based `app` that will grab all kinds of news related to cocos2d from the world everyday.
 
@@ -1313,9 +1313,9 @@ There is a [post](http://www.supersuraccoon-cocos2d.com/2013/05/20/introducing-c
 ### CocosQuiz
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/cocos_quiz_1.png" width="25%"/>
-<img src="./res/img/work_collection/cocos/cocos_quiz_4.png" width="25%"/>
-<img src="./res/img/work_collection/cocos/cocos_quiz_5.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_quiz_1.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_quiz_4.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_quiz_5.png" width="25%"/>
 
 A Quiz `app` for testing `Cocos2d` framework knowledge which runs both in browser and `iOS`.
 
@@ -1331,10 +1331,10 @@ A Quiz `app` for testing `Cocos2d` framework knowledge which runs both in browse
 ### GoTiles
 `INDIE`
 
-<img src="./res/img/work_collection/game/go_tiles_1.jpg" width="22%"/>
-<img src="./res/img/work_collection/game/go_tiles_2.jpg" width="22%"/>
-<img src="./res/img/work_collection/game/go_tiles_4.jpg" width="22%"/>
-<img src="./res/img/work_collection/game/go_tiles_5.jpg" width="22%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/go_tiles_1.jpg" width="22%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/go_tiles_2.jpg" width="22%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/go_tiles_4.jpg" width="22%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/go_tiles_5.jpg" width="22%"/>
 
 A classic puzzle game made with `Cocos2d-html5` + `JSBinding` + `Parse` and was ported to serveral different platforms using `Node-Webkit`.
 
@@ -1380,7 +1380,7 @@ There is a [post](http://www.supersuraccoon-cocos2d.com/2013/10/13/cocos2d-html5
 ### TuHaoSanGuo Server
 `NIBA`
 
-<img src="./res/img/work_collection/flash/tuhaosanguo.jpg" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/tuhaosanguo.jpg" width="60%"/>
 
 A web based RPG game in the background of the Three Kingdoms.
 
@@ -1406,7 +1406,7 @@ Work Content:
 ### Sublime Cocos2d HTML5 plugin
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/cocos2d-html5_api_sublime_text.gif" width="80%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos2d-html5_api_sublime_text.gif" width="80%"/>
 
 A `Cocos2d-HTML5 v2.x` plugin for `Sublime Text` with the following features:
 
@@ -1443,10 +1443,10 @@ There is a [post](http://www.supersuraccoon-cocos2d.com/2014/04/11/cocos2dhtml5d
 ### 5MinsMystery
 `INDIE`
 
-<img src="./res/img/work_collection/game/5_mins_mystery_1.png" width="23%"/>
-<img src="./res/img/work_collection/game/5_mins_mystery_3.png" width="23%"/>
-<img src="./res/img/work_collection/game/5_mins_mystery_4.png" width="23%"/>
-<img src="./res/img/work_collection/game/5_mins_mystery_5.png" width="23%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/5_mins_mystery_1.png" width="23%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/5_mins_mystery_3.png" width="23%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/5_mins_mystery_4.png" width="23%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/5_mins_mystery_5.png" width="23%"/>
 
 A text based interactive game for all the mystery fans.
 
@@ -1514,7 +1514,7 @@ Work Content:
 ### Gunman in Rage / BEE Server
 `LONGLIN`
 
-<img src="./res/img/work_collection/game/bee.jpg" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/bee.jpg" width="60%"/>
 
 A 2D scroll shooting `ACT` mobile game targeted on both `iOS` and `Android`.
 
@@ -1547,7 +1547,7 @@ The game was first named `Gunman in Rage` but then renamed to `BEE` later.
 ### Gunman in Rage / BEE Client
 `LONGLIN`
 
-<img src="./res/img/work_collection/game/gunman_in_rage.jpg" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/gunman_in_rage.jpg" width="60%"/>
 
 Work Content:
 
@@ -1636,7 +1636,7 @@ Work Content:
 ### Impress.js CopperBear
 `INDIE`
 
-<img src="./res/img/work_collection/blog/impress_js_copperbear.gif" width="30%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/impress_js_copperbear.gif" width="30%" />
 
 A `WeChat` slideshow made with `impress.js` to celebrating the 2 years birthday of our little pet.
 
@@ -1652,7 +1652,7 @@ A `WeChat` slideshow made with `impress.js` to celebrating the 2 years birthday 
 ### CocosShader
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/cocos_shader.gif" width="70%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_shader.gif" width="70%"/>
 
 A `Cocos2d-JS v3.9` based demo with following features:
 
@@ -1680,7 +1680,7 @@ Need to add some missing `Glue` functions to the `JSBinding` source code. Refer 
 ### Small World
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/small_world_html5.gif" width="70%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/small_world_html5.gif" width="70%"/>
 
 A `Cocos2d-HTML5 v2.2.3` based mini game demo with the following features:
 
@@ -1708,7 +1708,7 @@ The demo is also `JSBinding` supported but it runs slowly on `iOS` device since 
 ### SneakyJoystick JS
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/sneaky_joystick_js.gif" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/sneaky_joystick_js.gif" width="60%"/>
 
 A `Cocos2d-JS v3.10` based SneakyJoystick which supports `JSBinding`.
 
@@ -1724,7 +1724,7 @@ A `Cocos2d-JS v3.10` based SneakyJoystick which supports `JSBinding`.
 ### SpyFighter
 `INDIE`
 
-<img src="./res/img/work_collection/game/spy_fighter.gif" width="70%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/spy_fighter.gif" width="70%" />
 
 A `Cocos2d-JS v3.10` based `Tactical` && `Stealth Shooter` && `Puzzle Solving` game targeted on multi-platform -- `iOS` `Android` `Web` `Desktop`.
 
@@ -1778,9 +1778,9 @@ A complete solution on integrate `WeChat JS-SDK` with `Cocos2d-JS v3.10` in orde
 ### WeChat Wedding Invitation
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/wechat_wedding_invitation_1.png" width="30%" />
-<img src="./res/img/work_collection/cocos/wechat_wedding_invitation_2.png" width="30%" />
-<img src="./res/img/work_collection/cocos/wechat_wedding_invitation_3.png" width="30%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/wechat_wedding_invitation_1.png" width="30%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/wechat_wedding_invitation_2.png" width="30%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/wechat_wedding_invitation_3.png" width="30%" />
 
 A `WeChat` E-Wedding Invitation for myself with the following contents:
 
@@ -1803,7 +1803,7 @@ A `WeChat` E-Wedding Invitation for myself with the following contents:
 ### CocosSVG
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/cocos_svg.gif" width="70%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_svg.gif" width="70%"/>
 
 A Cocos2d-JS v3.9 based SVG Path Parser with following features:
 
@@ -1841,7 +1841,7 @@ The project is `JSBinding` supported but there is still problems left in concave
 ### FingerAdventure
 `INDIE`
 
-<img src="./res/img/work_collection/game/finger_adventure.gif" width="70%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/finger_adventure.gif" width="70%" />
 
 A `Cocos2d-JS v3.10` based mini `ACT` game targeted on multi-platform -- `iOS` `Android` `Web` `Desktop`.
 
@@ -1860,7 +1860,7 @@ A evolution version of my first game `FingerEscape`. (50% done).
 ### Cocos2dJS DOM
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/cocos2d_js_dom.gif" width="80%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos2d_js_dom.gif" width="80%" />
 
 A `Cocos2d-JS v3.10` based lib for using `HTML` DOM element with `Cocos2d-JS` to create in browser/desktop `App`.
 
@@ -1895,7 +1895,7 @@ The purpose of making this lib:
 ### Cocos2dJS DOM Electron
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/cjd_electron.gif" width="80%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cjd_electron.gif" width="80%" />
 
 The `Electron.js` version of the `Cocos2dJS DOM` project -- to create desktop `App` using `Cocos2d-JS`.
 
@@ -1912,7 +1912,7 @@ The `Electron.js` version of the `Cocos2dJS DOM` project -- to create desktop `A
 ### Cocos2dJS DOM Electron Editor
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/cjd_electron_editor.gif" width="80%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cjd_electron_editor.gif" width="80%" />
 
 The visual editor to create `UI` to be used with `Cocos2dJS DOM Electron`.
 
@@ -1931,7 +1931,7 @@ The visual editor to create `UI` to be used with `Cocos2dJS DOM Electron`.
 ### SuperSuRaccoon Github Blog
 `INDIE`
 
-<img src="./res/img/work_collection/blog/supersuraccoon_github_io.png" width="80%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/supersuraccoon_github_io.png" width="80%"/>
 
 A static blog hosted on `GitHub` using `Jekyll` with the following features:
 
@@ -1977,7 +1977,7 @@ A complete learning note && solution on using `JSBinding` with `Cocos2d-JS v3.10
 ### Cocos Protocol Buffer
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/cocos_protocol_buffer.png" width="100%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_protocol_buffer.png" width="100%"/>
 
 A complete solution on integrate `Protocol Buffer v2.5.0` with `Cocos2d-JS v3.10` game project with following features:
 
@@ -2052,8 +2052,8 @@ A complete learning note && solution on `iOS` game hacking && protection based o
 ### Cocos2dJS Android Emulator
 `INDIE`
 
-<img src="./res/img/work_collection/cocos/avd_emulator.png" width="40%"/>
-<img src="./res/img/work_collection/cocos/log_monitor.png" width="50%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/avd_emulator.png" width="40%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/log_monitor.png" width="50%"/>
 
 A complete solution on compiling && running `Cocos2d-JS v3.10` game on `Android` emulator with log monitoring.
 

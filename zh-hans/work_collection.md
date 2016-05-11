@@ -1,4 +1,4 @@
-# <img src="./res/img/face.png" width="50px"/> 项目作品集
+# <img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/face.png" width="50px"/> 项目作品集
 
 `2016.04 更新`
 
@@ -9,7 +9,7 @@
 ### 学生成绩管理系统
 `大学` `独立作品`
 
-![students_marks_management_system.png](res/img/work_collection/mfc_project/students_marks_management_system.png)
+![students_marks_management_system.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/students_marks_management_system.png)
 
 经典的控制台程序，包含了最基础的`添删改查`操作的支持。
 
@@ -27,7 +27,7 @@
 ### 操作系统进程管理模拟
 `大学` `独立作品`
 
-![operating_system_process_simulator.png](res/img/work_collection/mfc_project/operating_system_process_simulator.png)
+![operating_system_process_simulator.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/operating_system_process_simulator.png)
 
 模拟`Windows OS`如何对进程进行分配空间和管理。
 
@@ -42,7 +42,7 @@
 ### 电子教学助手
 `大学` `独立作品`
 
-![electronic_teaching_assistant.png](res/img/work_collection/mfc_project/electronic_teaching_assistant.png)
+![electronic_teaching_assistant.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/electronic_teaching_assistant.png)
 
 用于辅助教师教学的屏幕画笔工具。
 
@@ -61,7 +61,7 @@
 ### 最短路径算法演示程序
 `大学` `独立作品`
 
-![shortest_path_algorithm.png](res/img/work_collection/mfc_project/shortest_path_algorithm.png)
+![shortest_path_algorithm.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/shortest_path_algorithm.png)
 
 最短路径算法`SPSS` `SPSD`的可视化演示程序。
 
@@ -77,7 +77,7 @@
 ### Excel自动生成器
 `大学` `独立作品`
 
-![excel_generator.png](res/img/work_collection/mfc_project/excel_generator.png)
+![excel_generator.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/excel_generator.png)
 
 
 |                          |                   |
@@ -91,7 +91,7 @@
 ### 生命游戏
 `大学` `独立作品`
 
-![game_of_life.png](res/img/work_collection/mfc_project/game_of_life.png)
+![game_of_life.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/game_of_life.png)
 
 
 |                          |                             |
@@ -105,7 +105,7 @@
 ### 文件压缩器
 `大学` `独立作品`
 
-![file_compressor.png](res/img/work_collection/mfc_project/file_compressor.png)
+![file_compressor.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/file_compressor.png)
 
 基于`LZSS` and `RLE`算法的简单文件压缩器。
 
@@ -120,7 +120,7 @@
 ### 电子词典
 `大学` `独立作品`
 
-![my_dictionary.png](res/img/work_collection/mfc_project/my_dictionary.png)
+![my_dictionary.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/my_dictionary.png)
 
 一个简单的电子词典，支持`.xls`格式的字库导入导出功能。
 
@@ -135,7 +135,7 @@
 ### 文件下载工具
 `大学` `独立作品`
 
-![file_downloader.png](res/img/work_collection/mfc_project/file_downloader.png)
+![file_downloader.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/file_downloader.png)
 
 
 |                          |                   |
@@ -149,7 +149,7 @@
 ### 迷你QQ
 `大学` `独立作品`
 
-![mini_qq.png](res/img/work_collection/mfc_project/mini_qq.png)
+![mini_qq.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/mini_qq.png)
 
 实现了最基本的文字聊天功能的阉割版QQ。
 
@@ -165,7 +165,7 @@
 ### PC屏幕锁
 `大学` `独立作品`
 
-![pc_screen_locker.png](res/img/work_collection/mfc_project/pc_screen_locker.png)
+![pc_screen_locker.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/pc_screen_locker.png)
 
 类似`iOS`的屏幕锁。
 
@@ -181,7 +181,7 @@
 ### 焊接流程管理系统
 `大学` `独立作品`
 
-![weld_process_system.png](res/img/work_collection/mfc_project/weld_process_system.png)
+![weld_process_system.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/weld_process_system.png)
 
 南通中原船厂的一个焊接流程管理系统外包项目。
 
@@ -197,7 +197,7 @@
 ### 图书管理系统
 `大学` `独立作品`
 
-![books_management_system.png](res/img/work_collection/mfc_project/books_management_system.png)
+![books_management_system.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/books_management_system.png)
 
 
 |                          |                   |
@@ -211,7 +211,7 @@
 ### 文字复制粘贴加强版
 `大学` `独立作品`
 
-![advanced_text_copy_paste_tool.png](res/img/work_collection/mfc_project/advanced_text_copy_paste_tool.png)
+![advanced_text_copy_paste_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/advanced_text_copy_paste_tool.png)
 
 通过改造系统剪贴板实现保存多次复制文字，选择性粘贴功能。
 
@@ -226,7 +226,7 @@
 ### 文件复制粘贴加强版
 `大学` `独立作品`
 
-![advanced_file_copy_paste_tool.png](res/img/work_collection/mfc_project/advanced_file_copy_paste_tool.png)
+![advanced_file_copy_paste_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/advanced_file_copy_paste_tool.png)
 
 
 |                          |                   |
@@ -240,7 +240,7 @@
 ### 动作小游戏
 `大学` `独立作品`
 
-![act_mini_game.png](res/img/work_collection/mfc_project/act_mini_game.png)
+![act_mini_game.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/act_mini_game.png)
 
 使用了多线程技术的动作小游戏。
 
@@ -260,7 +260,7 @@
 ### 三子棋
 `大学` `独立作品`
 
-![tic_tac_toe.png](res/img/work_collection/mfc_project/tic_tac_toe.png)
+![tic_tac_toe.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/tic_tac_toe.png)
 
 
 |                          |                   |
@@ -274,7 +274,7 @@
 ### 数字手写输入法
 `大学` `独立作品`
 
-![hand_writing_ime.png](res/img/work_collection/mfc_project/hand_writing_ime.png)
+![hand_writing_ime.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/hand_writing_ime.png)
 
 具有自学习功能的数字手写输入法。
 
@@ -289,7 +289,7 @@
 ### 文件夹统计器
 `大学` `独立作品`
 
-![folders_calculator.png](res/img/work_collection/mfc_project/folders_calculator.png)
+![folders_calculator.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/folders_calculator.png)
 
 
 |                          |                   |
@@ -303,7 +303,7 @@
 ### 文件列表名生成器
 `大学` `独立作品`
 
-![filename_list_generator.png](res/img/work_collection/mfc_project/filename_list_generator.png)
+![filename_list_generator.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/filename_list_generator.png)
 
 
 |                          |                   |
@@ -317,7 +317,7 @@
 ### 文件重命名工具
 `大学` `独立作品`
 
-![file_rename_tool.png](res/img/work_collection/mfc_project/file_rename_tool.png)
+![file_rename_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/file_rename_tool.png)
 
 
 |                          |                   |
@@ -331,7 +331,7 @@
 ### 日文50音自动注音工具
 `大学` `独立作品`
 
-![japanese_automatic_notation_tool.png](res/img/work_collection/mfc_project/japanese_automatic_notation_tool.png)
+![japanese_automatic_notation_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/japanese_automatic_notation_tool.png)
 
 
 |                          |                   |
@@ -345,7 +345,7 @@
 ### 桌面工具栏
 `大学` `独立作品`
 
-![desktop_toolbar.png](res/img/work_collection/mfc_project/desktop_toolbar.png)
+![desktop_toolbar.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/desktop_toolbar.png)
 
 
 |                          |                   |
@@ -359,7 +359,7 @@
 ### 桌面时钟
 `大学` `独立作品`
 
-![desktop_clock.png](res/img/work_collection/mfc_project/desktop_clock.png)
+![desktop_clock.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/desktop_clock.png)
 
 
 |                          |                   |
@@ -373,7 +373,7 @@
 ### 玉米选种演示
 `大学` `独立作品`
 
-![corn_breeding_tool.png](res/img/work_collection/mfc_project/corn_breeding_tool.png)
+![corn_breeding_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/corn_breeding_tool.png)
 
 基于数据挖掘中的决策树算法的玉米选种演示演示程序。
 
@@ -388,7 +388,7 @@
 ### 文件加密解密工具
 `大学` `独立作品`
 
-![file_encrypt_decrypt_tool.png](res/img/work_collection/mfc_project/file_encrypt_decrypt_tool.png)
+![file_encrypt_decrypt_tool.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/file_encrypt_decrypt_tool.png)
 
 
 |                          |                   |
@@ -402,7 +402,7 @@
 ### 蓝牙设备扫描器
 `大学` `独立作品`
 
-![bluetooth_device_scaner.png](res/img/work_collection/mfc_project/bluetooth_device_scaner.png)
+![bluetooth_device_scaner.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/bluetooth_device_scaner.png)
 
 
 |                          |                   |
@@ -416,7 +416,7 @@
 ### 论坛发帖自动备份器
 `大学` `独立作品`
 
-![forum_post_auto_saver.png](res/img/work_collection/mfc_project/forum_post_auto_saver.png)
+![forum_post_auto_saver.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/forum_post_auto_saver.png)
 
 
 |                          |                   |
@@ -430,7 +430,7 @@
 ### 迷宫出口寻路演示
 `大学` `独立作品`
 
-![map_exit_pathing_finding.png](res/img/work_collection/mfc_project/map_exit_pathing_finding.png)
+![map_exit_pathing_finding.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/map_exit_pathing_finding.png)
 
 
 |                          |                   |
@@ -444,7 +444,7 @@
 ### 动作重播器
 `大学` `独立作品`
 
-![action_replayer.png](res/img/work_collection/mfc_project/action_replayer.png)
+![action_replayer.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/action_replayer.png)
 
 记录所有的键盘鼠标操作保存至文件并可再次重现。
 
@@ -460,7 +460,7 @@
 ### 数字字母图像识别工具
 `大学` `独立作品`
 
-![digital_image_recgonition.png](res/img/work_collection/mfc_project/digital_image_recgonition.png)
+![digital_image_recgonition.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/digital_image_recgonition.png)
 
 基于模板识别算法。
 
@@ -475,7 +475,7 @@
 ### 数学公式识别工具
 `大学` `独立作品`
 
-![math_function_recognition_system.png](res/img/work_collection/mfc_project/math_function_recognition_system.png)
+![math_function_recognition_system.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/math_function_recognition_system.png)
 
 
 |                          |                   |
@@ -492,7 +492,7 @@
 ### 掌纹识别门禁系统
 `富士通`
 
-![palm_secure.png](res/img/work_collection/palm_secure/palm_secure.png)
+![palm_secure.png](http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/palm_secure.png)
 
 
 备注:
@@ -567,7 +567,7 @@
 ### 丝网印刷设备图像检测系统
 `TIANYUAN`
 
-<img src="./res/img/work_collection/mfc_project/spis.png" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/spis.png" width="60%"/>
 
 
 |                          |                               |
@@ -585,11 +585,11 @@
 ### SuperSuRaccoon's 博客
 `独立作品`
 
-<img src="./res/img/work_collection/blog/supersuraccoon_cocos2d_com_en.png" width="80%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/supersuraccoon_cocos2d_com_en.png" width="80%"/>
 
-<img src="./res/img/work_collection/blog/supersuraccoon_cocos2d_com_zh.png" width="80%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/supersuraccoon_cocos2d_com_zh.png" width="80%"/>
 
-<img src="./res/img/work_collection/blog/supersuraccoon_cocos2d_com_ja.png" width="80%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/supersuraccoon_cocos2d_com_ja.png" width="80%"/>
 
 一个主要记录关于`cocos2d`游戏开发相关内容的博客。
 
@@ -618,9 +618,9 @@
 ### URLSchemes Send Level
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/url_schemes_demo_1.png" width="32%"/>
-<img src="./res/img/work_collection/cocos/url_schemes_demo_3.png" width="32%"/>
-<img src="./res/img/work_collection/cocos/url_schemes_demo_5.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/url_schemes_demo_1.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/url_schemes_demo_3.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/url_schemes_demo_5.png" width="32%"/>
 
 借助`URLSchemes`通过邮件发送和接收游戏关卡的演示程序。
 
@@ -639,9 +639,9 @@
 ### CCLabelTableEditor
 `独立作品`
 
-<img src="res/img/work_collection/cocos/cclabel_table_editor_1.png" width="32%"/>
-<img src="res/img/work_collection/cocos/cclabel_table_editor_2.png" width="32%"/>
-<img src="res/img/work_collection/cocos/cclabel_table_editor_3.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cclabel_table_editor_1.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cclabel_table_editor_2.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cclabel_table_editor_3.png" width="32%"/>
 
 `Cocos2d-iPhone`专用的可视化表格编辑器。
 
@@ -657,9 +657,9 @@
 ### 手指大逃亡
 `独立作品`
 
-<img src="./res/img/work_collection/game/finger_escape_1.png" width="32%"/>
-<img src="./res/img/work_collection/game/finger_escape_2.png" width="32%"/>
-<img src="./res/img/work_collection/game/finger_escape_3.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/finger_escape_1.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/finger_escape_2.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/finger_escape_3.png" width="32%"/>
 
 将自己的手指作为游戏道具在屏幕上躲避各种各样的敌人 -- 一款`iOS`动作小游戏。
 
@@ -699,9 +699,9 @@
 
 使用中观传统牌九进行的游戏，发布在`AppStore`。
 
-<img src="./res/img/work_collection/game/clear_five_stages_1.png" width="25%"/>
-<img src="./res/img/work_collection/game/clear_five_stages_2.png" width="25%"/>
-<img src="./res/img/work_collection/game/clear_five_stages_3.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/clear_five_stages_1.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/clear_five_stages_2.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/clear_five_stages_3.png" width="25%"/>
 
 备注:
 
@@ -831,7 +831,7 @@
 ### 将军页游客户端
 `泥巴`
 
-<img src="./res/img/work_collection/flash/checkmate.jpg" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/checkmate.jpg" width="60%"/>
 
 以二战为背景的`SLG`页游。
 
@@ -890,7 +890,7 @@
 ### EffectComboDemo
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos2dx_effect_combo_demo.gif" width="70%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos2dx_effect_combo_demo.gif" width="70%"/>
 
 庆祝`Cocos2d-x`一周年活动的一个效果集合演示程序。
 
@@ -907,9 +907,9 @@
 ### CocosGestureRecognizersDemo
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_wtm_glyph_demo_5.png" width="32%" />
-<img src="./res/img/work_collection/cocos/gesture_detection_demo_1.png" width="32%" />
-<img src="./res/img/work_collection/cocos/sf_gesture_recognizers_demo_3.png" width="32%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_wtm_glyph_demo_5.png" width="32%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/gesture_detection_demo_1.png" width="32%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/sf_gesture_recognizers_demo_3.png" width="32%" />
 
 `Cocos2d-iPhone`适用的各种手势识别库演示程序。
 
@@ -929,9 +929,9 @@
 ### ExplosionParticleDemo
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/improved_ccparticlesystem_explosion_1.png" width="32%"/>
-<img src="./res/img/work_collection/cocos/improved_ccparticlesystem_explosion_2.png" width="32%"/>
-<img src="./res/img/work_collection/cocos/improved_ccparticlesystem_explosion_3.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/improved_ccparticlesystem_explosion_1.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/improved_ccparticlesystem_explosion_2.png" width="32%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/improved_ccparticlesystem_explosion_3.png" width="32%"/>
 
 A improved `CCParticleSystem` explosion demo.
 
@@ -979,7 +979,7 @@ A improved `CCParticleSystem` explosion demo.
 ### CircleLabelTTFDemo HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/circle_labelttf_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/circle_labelttf_demo_html5.png"/>
 
 A `cc.LabelTTF` can expand / shrink in a circle.
 
@@ -994,7 +994,7 @@ A `cc.LabelTTF` can expand / shrink in a circle.
 ### TimeLineDemo HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/timeline_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/timeline_demo_html5.png"/>
 
 
 |                          |                               |
@@ -1009,7 +1009,7 @@ A `cc.LabelTTF` can expand / shrink in a circle.
 ### CalendarDemo HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/calendar_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/calendar_demo_html5.png"/>
 
 
 |                          |                               |
@@ -1024,7 +1024,7 @@ A `cc.LabelTTF` can expand / shrink in a circle.
 ### DollarRecognizerDemo HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/dollar_recognizer_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/dollar_recognizer_demo_html5.png"/>
 
 
 |                          |                               |
@@ -1039,7 +1039,7 @@ A `cc.LabelTTF` can expand / shrink in a circle.
 ### ShapeSprite HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/shape_sprite_html5.png" width="50%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/shape_sprite_html5.png" width="50%"/>
 
 
 |                          |                               |
@@ -1054,8 +1054,8 @@ A `cc.LabelTTF` can expand / shrink in a circle.
 ### CopperBear's Blog
 `独立作品`
 
-<img src="./res/img/work_collection/blog/copper_bear_name_1.png" width="60%"/>
-<img src="./res/img/work_collection/blog/copper_bear_name_2.png" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/copper_bear_name_1.png" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/copper_bear_name_2.png" width="60%"/>
 
 宠物猫的个人博客:
 
@@ -1084,8 +1084,8 @@ A `cc.LabelTTF` can expand / shrink in a circle.
 ### 通五关HTML5版
 `独立作品`
 
-<img src="./res/img/work_collection/game/clear_five_stages_facebook.png" width="35%"/>
-<img src="./res/img/work_collection/game/clear_five_stages_sinaweibo.png" width="35%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/clear_five_stages_facebook.png" width="35%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/clear_five_stages_sinaweibo.png" width="35%"/>
 
 
 工作内容:
@@ -1112,7 +1112,7 @@ A `cc.LabelTTF` can expand / shrink in a circle.
 ### Cocos2d iPhone ~ Cocos2d HTML5 移植之旅
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/a_trip_from_cocos2d_iphone_to_cocos2d_html5_zh.png" width="30%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/a_trip_from_cocos2d_iphone_to_cocos2d_html5_zh.png" width="30%"/>
 
 记录通五关游戏重写的学习经历，发布在iBookStore上。
 
@@ -1127,7 +1127,7 @@ A `cc.LabelTTF` can expand / shrink in a circle.
 ### ResumeDemo-HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/resume_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/resume_demo_html5.png"/>
 
 使用`Cocos2d-HTML5 v2.2.3`&&`Cocosbuilder`编写的在线简历。
 
@@ -1144,7 +1144,7 @@ A `cc.LabelTTF` can expand / shrink in a circle.
 ### CocosCLIDemo HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_cli_demo_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_cli_demo_html5.png"/>
 
 基于`Cocos2d-HTML5 v2.2.3`的一个游戏内置控制台。
 
@@ -1161,7 +1161,7 @@ A `cc.LabelTTF` can expand / shrink in a circle.
 ### CocosJSBLab HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_jsb_lab_html5.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_jsb_lab_html5.png"/>
 
 
 |                          |                               |
@@ -1176,7 +1176,7 @@ A `cc.LabelTTF` can expand / shrink in a circle.
 ### SpiderMonkeyMix Cocos2dx
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/spidermonkey_mix_cocos2dx.png"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/spidermonkey_mix_cocos2dx.png"/>
 
 SpiderMonkey的学习笔记和演示程序。
 
@@ -1193,7 +1193,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### JSBBlueTooth
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/jsb_bluetooth.jpg" width="50%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/jsb_bluetooth.jpg" width="50%" />
 
 基于`Cocos2d-html5`+`JSBinding`的本地蓝牙多人对战演示程序。
 
@@ -1209,7 +1209,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### CocosMagnifier HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_magnifier_html5.gif" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_magnifier_html5.gif" width="60%"/>
 
 
 基于`Cocos2d-HTML5 v2.2.2`的一款屏幕放大镜演示程序。
@@ -1226,7 +1226,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### CocosSVG HTML5
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_svg_html5.png" width="50%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_svg_html5.png" width="50%" />
 
 基于`cocos2d-html5`的`.svg`绘图命令解析器。
 
@@ -1242,7 +1242,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### CocosNewsCenter
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_news_center.png" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_news_center.png" width="60%"/>
 
 一款浏览器`应用`用于抓取各种`cocos2d`相关信息。
 
@@ -1286,9 +1286,9 @@ SpiderMonkey的学习笔记和演示程序。
 ### CocosQuiz
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_quiz_1.png" width="25%"/>
-<img src="./res/img/work_collection/cocos/cocos_quiz_4.png" width="25%"/>
-<img src="./res/img/work_collection/cocos/cocos_quiz_5.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_quiz_1.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_quiz_4.png" width="25%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_quiz_5.png" width="25%"/>
 
 
 |                          |                               |
@@ -1303,10 +1303,10 @@ SpiderMonkey的学习笔记和演示程序。
 ### GoTiles
 `独立作品`
 
-<img src="./res/img/work_collection/game/go_tiles_1.jpg" width="22%"/>
-<img src="./res/img/work_collection/game/go_tiles_2.jpg" width="22%"/>
-<img src="./res/img/work_collection/game/go_tiles_4.jpg" width="22%"/>
-<img src="./res/img/work_collection/game/go_tiles_5.jpg" width="22%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/go_tiles_1.jpg" width="22%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/go_tiles_2.jpg" width="22%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/go_tiles_4.jpg" width="22%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/go_tiles_5.jpg" width="22%"/>
 
 基于`Cocos2d-html5`+`JSBinding`+`Parse`的一款经典消除游戏，并使用`Node-Webkit`移植到桌面版。
 
@@ -1352,7 +1352,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### 土豪三国页游服务器端
 `泥巴`
 
-<img src="./res/img/work_collection/flash/tuhaosanguo.jpg" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/tuhaosanguo.jpg" width="60%"/>
 
 三国为背景的一款`RPG`游戏。
 
@@ -1378,7 +1378,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### Sublime Cocos2d HTML5 插件
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos2d-html5_api_sublime_text.gif" width="80%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos2d-html5_api_sublime_text.gif" width="80%"/>
 
 一款用于`Sublime Text`进行`Cocos2d-HTML5 v2.x`游戏开发的插件，主要功能:
 
@@ -1415,10 +1415,10 @@ SpiderMonkey的学习笔记和演示程序。
 ### 5分钟推理故事
 `独立作品`
 
-<img src="./res/img/work_collection/game/5_mins_mystery_1.png" width="23%"/>
-<img src="./res/img/work_collection/game/5_mins_mystery_3.png" width="23%"/>
-<img src="./res/img/work_collection/game/5_mins_mystery_4.png" width="23%"/>
-<img src="./res/img/work_collection/game/5_mins_mystery_5.png" width="23%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/5_mins_mystery_1.png" width="23%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/5_mins_mystery_3.png" width="23%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/5_mins_mystery_4.png" width="23%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/5_mins_mystery_5.png" width="23%"/>
 
 一款文字类推理游戏。
 
@@ -1484,7 +1484,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### 暴走枪神 / 雏蜂手游服务器端
 `龙麟`
 
-<img src="./res/img/work_collection/game/bee.jpg" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/bee.jpg" width="60%"/>
 
 2D横屏卷轴设计游戏，发布在`iOS`和`Android`上。
 
@@ -1516,7 +1516,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### 暴走枪神 / 雏蜂手游客户端
 `龙麟`
 
-<img src="./res/img/work_collection/game/gunman_in_rage.jpg" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/gunman_in_rage.jpg" width="60%"/>
 
 工作内容:
 
@@ -1604,7 +1604,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### Impress.js CopperBear
 `独立作品`
 
-<img src="./res/img/work_collection/blog/impress_js_copperbear.gif" width="30%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/impress_js_copperbear.gif" width="30%" />
 
 纪念宠物猫2岁生日使用`impress.js`做的微信内幻灯片。
 
@@ -1620,7 +1620,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### CocosShader
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_shader.gif" width="70%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_shader.gif" width="70%"/>
 
 基于`Cocos2d-JS v3.9`的图像特效演示程序:
 
@@ -1647,7 +1647,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### Small World
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/small_world_html5.gif" width="70%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/small_world_html5.gif" width="70%"/>
 
 基于`Cocos2d-HTML5 v2.2.3`的一款小游戏雏形:
 
@@ -1676,7 +1676,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### SneakyJoystick JS
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/sneaky_joystick_js.gif" width="60%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/sneaky_joystick_js.gif" width="60%"/>
 
 `C++`版本的SneakyJoystick的`Cocos2d-JS v3.10`移植版本，支持`JSBinding`。
 
@@ -1692,7 +1692,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### SpyFighter
 `独立作品`
 
-<img src="./res/img/work_collection/game/spy_fighter.gif" width="70%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/spy_fighter.gif" width="70%" />
 
 基于`Cocos2d-JS v3.10`的一款 策略潜入&&战斗&&解谜游戏，目标平台 -- `iOS` `Android` `Web` `Desktop`。
 
@@ -1746,9 +1746,9 @@ SpiderMonkey的学习笔记和演示程序。
 ### 微信婚宴请帖
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/wechat_wedding_invitation_1.png" width="30%" />
-<img src="./res/img/work_collection/cocos/wechat_wedding_invitation_2.png" width="30%" />
-<img src="./res/img/work_collection/cocos/wechat_wedding_invitation_3.png" width="30%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/wechat_wedding_invitation_1.png" width="30%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/wechat_wedding_invitation_2.png" width="30%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/wechat_wedding_invitation_3.png" width="30%" />
 
 自己的婚宴微信电子请帖:
 
@@ -1772,7 +1772,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### CocosSVG
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_svg.gif" width="70%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_svg.gif" width="70%"/>
 
 基于`Cocos2d-JS v3.9`的SVG绘图路径命令解析器:
 
@@ -1810,7 +1810,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### FingerAdventure
 `独立作品`
 
-<img src="./res/img/work_collection/game/finger_adventure.gif" width="70%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/finger_adventure.gif" width="70%" />
 
 基于`Cocos2d-JS v3.10`的手指大逃亡升级版(完成度50%)，目标平台 -- `iOS` `Android` `Web` `Desktop`.
 
@@ -1827,7 +1827,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### Cocos2dJS DOM
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos2d_js_dom.gif" width="80%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos2d_js_dom.gif" width="80%" />
 
 在`Cocos2d-JS v3.10`中使用`HTML`中的元素创建浏览器应用。
 
@@ -1861,7 +1861,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### Cocos2dJS DOM Electron
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cjd_electron.gif" width="80%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cjd_electron.gif" width="80%" />
 
 `Cocos2dJS DOM`和`Electron.js`的结合，用于创建本地化的桌面应用。
 
@@ -1878,7 +1878,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### Cocos2dJS DOM Electron Editor
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cjd_electron_editor.gif" width="80%" />
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cjd_electron_editor.gif" width="80%" />
 
 `Cocos2dJS DOM Electron`的可视化编辑器。
 
@@ -1897,7 +1897,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### SuperSuRaccoon Github博客
 `独立作品`
 
-<img src="./res/img/work_collection/blog/supersuraccoon_github_io.png" width="80%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/supersuraccoon_github_io.png" width="80%"/>
 
 最近流行的使用`Jekyll`搭建的`GitHub`静态博客:
 
@@ -1941,7 +1941,7 @@ SpiderMonkey的学习笔记和演示程序。
 ### Cocos Protocol Buffer
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/cocos_protocol_buffer.png" width="100%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/cocos_protocol_buffer.png" width="100%"/>
 
 基于`Cocos2d-JS v3.10`较完整`Protocol Buffer v2.5.0`学习笔记和使用方案:
 
@@ -2016,8 +2016,8 @@ SpiderMonkey的学习笔记和演示程序。
 ### Cocos2dJS Android Emulator
 `独立作品`
 
-<img src="./res/img/work_collection/cocos/avd_emulator.png" width="40%"/>
-<img src="./res/img/work_collection/cocos/log_monitor.png" width="50%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/avd_emulator.png" width="40%"/>
+<img src="http://7xtx3t.com2.z0.glb.clouddn.com/supersuraccoon-gitbook-resume/log_monitor.png" width="50%"/>
 
 不适用`Eclipse`等重型`IDE`，将基于`Cocos2d-JS v3.10`的游戏移植到`Android`平台，在模拟器中运行并进行日志监控调试的解决方案。
 
