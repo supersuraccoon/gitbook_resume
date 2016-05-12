@@ -1438,6 +1438,7 @@ There is a [post](http://www.supersuraccoon-cocos2d.com/2014/04/11/cocos2dhtml5d
 | **Framework && Library** | `Cocos2d-HTML5`              |
 | **Software && Tool**     | `Sublime Text3`      |
 | **Duration**     | `One Week`|
+| **Code Link**            | [Code on GitHub](https://github.com/supersuraccoon/Cocos2dHTML5SublimeTextPlugin/)|
 
 
 ### 5MinsMystery

@@ -1410,6 +1410,7 @@ SpiderMonkey的学习笔记和演示程序。
 | **框架&&三方库** | `Cocos2d-HTML5`              |
 | **软件&&工具**     | `Sublime Text3`      |
 | **持续时间**     | `1周`|
+| **开源代码**            | [GitHub](https://github.com/supersuraccoon/Cocos2dHTML5SublimeTextPlugin/)|
 
 
 ### 5分钟推理故事

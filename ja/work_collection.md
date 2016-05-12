@@ -1363,6 +1363,7 @@ Sublime専用の`Cocos2d-HTML5 v2.x`プラグインで、以下の機能を提�
 | **フレームワーク && ライブラリ** | `Cocos2d-HTML5`              |
 | **ソフトウェア && ツール**     | `Sublime Text3`      |
 | **期間**     | `一週間`|
+| **ソースコード**            | [GitHub](https://github.com/supersuraccoon/Cocos2dHTML5SublimeTextPlugin/)|
 
 
 ### 5MinsMystery
