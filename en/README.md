@@ -2,7 +2,7 @@ Written By: SuperSuRaccoon
 
 This book is, in fact, my online resume.
 
-I happened to have a lot of spare time recently so I updated my resume and made a complete yet detailed summary of all the projects I have done in my career life up till now.
+I happened to have a lot of spare time recently so I updated my resume and made a complete yet detailed summary of all the projects I have done in my career life up till now and most of them are opensourced.
 
 I think it is very important and necessary to record every projects in time no matter big or small it is.
 
