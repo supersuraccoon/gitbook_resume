@@ -1986,7 +1986,7 @@ A text based interactive game for all the mystery fans.
 
 
 ### GitBook 履歴書
-`INDIE`
+`独立作品`
 
 僕の最新履歴書です。
 
@@ -1998,7 +1998,7 @@ A text based interactive game for all the mystery fans.
 
 
 ### GitBook 多言語対応テンプレート
-`INDIE`
+`独立作品`
 
 内容について:
 

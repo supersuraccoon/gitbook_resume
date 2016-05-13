@@ -2032,7 +2032,7 @@ SpiderMonkey的学习笔记和演示程序。
 
 
 ### GitBook 简历
-`INDIE`
+`独立作品`
 
 `GitBook` 上的最新简历。
 
@@ -2044,7 +2044,7 @@ SpiderMonkey的学习笔记和演示程序。
 
 
 ### GitBook 多语言模板
-`INDIE`
+`独立作品`
 
 本书的内容主要是关于 `GitBook` 在使用上的一些基础功能的总结，包括 :
 
