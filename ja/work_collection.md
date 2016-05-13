@@ -1073,7 +1073,7 @@ ProactnesII NMの技術サポートとしてベトナムのVinaphoneで出張し
 
 |                          |                               |
 | :----------------------- | :---------------------------- |
-| **カテゴリー**             | `Book`                        |
+| **カテゴリー**             | `本`                        |
 | **ソフトウェア && ツール**     | `iBook Author`                |
 | **リンク先**            | [iBookStore](https://itunes.apple.com/us/book/trip-from-Cocos2d-iPhone-to/id633105012)|
 | **リンク先**            | [Github](https://github.com/supersuraccoon/a-trip-from-Cocos2d-iPhone-to-cocos2d-html5)|
@@ -1983,6 +1983,35 @@ A text based interactive game for all the mystery fans.
 | **フレームワーク && ライブラリ** | `Cocos2d-JS`|
 | **ソフトウェア && ツール**     | `Sublime Text3`|
 | **ソースコード**            | 後ほど公開 ...|
+
+
+### GitBook 履歴書
+`INDIE`
+
+僕の最新履歴書です。
+
+|                          |                               |
+| :----------------------- | :---------------------------- |
+| **カテゴリー**             |`本`|
+| **ソフトウェア && ツール**     | `GitBook`|
+| **リンク先**            | [GitBook](https://www.gitbook.com/book/supersuraccoon/resume)|
+
+
+### GitBook 多言語対応テンプレート
+`INDIE`
+
+内容について:
+
+- `GitHub` に格納したソースコードを基にして `GitBook` で本を作る方法
+- `GitBook` で使用できる基本的な `markdown` 文法
+- `GitBook` で使用を薦める`markdown`プラグインまとめ
+
+|                          |                               |
+| :----------------------- | :---------------------------- |
+| **カテゴリー**             |`本` `メモ`|
+| **ソフトウェア && ツール**     | `GitBook`|
+| **リンク先**            | [GitBook](https://www.gitbook.com/book/supersuraccoon/gitbook_multilanguage_template/details)|
+
 
 
 > また続けるかな ...

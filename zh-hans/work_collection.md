@@ -1118,7 +1118,7 @@ A `cc.LabelTTF` can expand / shrink in a circle.
 
 |                          |                               |
 | :----------------------- | :---------------------------- |
-| **分类**             | `Book`                        |
+| **分类**             | `书籍`                        |
 | **软件&&工具**     | `iBook Author`                |
 | **电子书链接**            | [iBookStore](https://itunes.apple.com/us/book/trip-from-Cocos2d-iPhone-to/id633105012)|
 | **电子书链接**            | [Github](https://github.com/supersuraccoon/a-trip-from-Cocos2d-iPhone-to-cocos2d-html5)|
@@ -2030,6 +2030,34 @@ SpiderMonkey的学习笔记和演示程序。
 | **软件&&工具**     | `Sublime Text3`|
 | **开源代码**            | 近期开源 ... |
 
+
+### GitBook 简历
+`INDIE`
+
+`GitBook` 上的最新简历。
+
+|                          |                               |
+| :----------------------- | :---------------------------- |
+| **分类**             |`书籍`|
+| **软件&&工具**     | `GitBook`|
+| **电子书链接**            | [GitBook](https://www.gitbook.com/book/supersuraccoon/resume)|
+
+
+### GitBook 多语言模板
+`INDIE`
+
+本书的内容主要是关于 `GitBook` 在使用上的一些基础功能的总结，包括 :
+
+- 如何使用 `GitHub` 上的代码作为来源在 `GitBook` 上创建书籍
+- `GitBook` 上支持的一些常用 markdown 语法
+- `GitBook` 上的一些有用的值得推荐的 markdown 语法加强插件
+- 创建一本多语言支持的书籍的模板
+
+|                          |                               |
+| :----------------------- | :---------------------------- |
+| **分类**             |`书籍` `笔记`|
+| **软件&&工具**     | `GitBook`|
+| **电子书链接**            | [GitBook](https://www.gitbook.com/book/supersuraccoon/gitbook_multilanguage_template/details)|
 
 
 

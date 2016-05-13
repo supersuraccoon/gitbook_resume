@@ -2067,6 +2067,33 @@ A complete solution on compiling && running `Cocos2d-JS v3.10` game on `Android`
 | **Code Link**            | Coming Later ... |
 
 
+### GitBook Reusme
+`INDIE`
+
+My latest resume on `GitBook`.
+
+|                          |                               |
+| :----------------------- | :---------------------------- |
+| **Category**             |`Book`|
+| **Software && Tool**     | `GitBook`|
+| **Book Link**            | [GitBook](https://www.gitbook.com/book/supersuraccoon/resume) |
+
+
+### GitBook Multi language Template
+`INDIE`
+
+Book contents:
+
+- How to create a book on `GitBook` with the source code hosted on `GitHub`
+- Some basic markdown syntax supported when using `GitBook`
+- Some useful and suggested `GitBook` markdown plugins
+
+|                          |                               |
+| :----------------------- | :---------------------------- |
+| **Category**             |`Book` `Document`|
+| **Software && Tool**     | `GitBook`|
+| **Book Link**            | [GitBook](https://www.gitbook.com/book/supersuraccoon/gitbook_multilanguage_template/details) |
+
 > ......
 
 
